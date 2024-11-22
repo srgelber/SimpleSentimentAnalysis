@@ -3,8 +3,6 @@ from newspaper import Article
 import nltk
 
 
-
-
 url = 'https://abcnews.go.com/US/laken-riley-suspect-guilty-murder/story?id=116030068'
 article = Article(url)
 
